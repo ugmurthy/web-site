@@ -1,0 +1,3 @@
+main {
+printf("%s\n","A quick Brown Fox Jumps over lazy dog");
+}
