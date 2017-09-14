@@ -1,4 +1,6 @@
-A quick brown fox jumps over lazy dog
+/* 
+**A quick brown fox jumps over lazy dog
+*/
 
 main {
 printf("%s\n","A quick Brown Fox Jumps over lazy dog");
